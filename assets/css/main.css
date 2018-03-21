@@ -1899,11 +1899,11 @@
 	.button {
 		position: relative;
 		display: inline-block;
-		border-radius: 0.35em;
+		border-radius: 0.15em;
 		color: #fff !important;
 		text-decoration: none;
 		padding: 0.75em 2.5em 0.75em 2.5em;
-		background-color: #E694BB;
+		background-color: #8d0606;
 		border: 0;
 		cursor: pointer;
 		background-image: -moz-linear-gradient(top, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.15)), url("images/overlay.png");
@@ -1987,7 +1987,7 @@
 		-webkit-justify-content: space-between;
 		-ms-justify-content: space-between;
 		justify-content: space-between;
-		background: #222629 url("images/overlay.png");
+		background: #000000 url("images/overlay.png");
 		box-shadow: inset -0.25em 0 0.25em 0 rgba(0, 0, 0, 0.1);
 		color: #fff;
 		height: 100%;
@@ -2182,7 +2182,7 @@
 			}
 
 			#main > section.one {
-				background-color: #81918E;
+				background-color: #00000f;
 				background-image: url("../../images/t10.jpg");
 			}
 
